@@ -74,9 +74,9 @@ I'm continuously improving my technical skills by building projects and learning
 
 **********************************************************************************************************************
 📫 Connect With Me
-GitHub: @SinaRehber06/
-LinkedIn : www.linkedin.com/in/sina-rehber-2b2b7b344/
-Telegram : t.me/Sina_listingservices/
+GitHub: @SinaRehber06
+LinkedIn : www.linkedin.com/in/sina-rehber-2b2b7b344
+Telegram : @t.me/Sina_listingservices
 
 
 
